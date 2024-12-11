@@ -1,0 +1,18 @@
+[package]
+name = "indexer-new"
+version = "0.1.0"
+edition = "2021"
+
+[dependencies]
+anyhow = "1.0"
+chrono = { version = "0.4", features = ["serde"] }
+dotenv = "0.15"
+futures = "0.3"
+serde = { version = "1.0", features = ["derive"] }
+serde_json = "1.0"
+surrealdb = { version = "1.0.0", features = ["kv-mem"] }
+sui-sdk = { git = "https://github.com/MystenLabs/sui", branch = "devnet" }
+move-core-types = { git = "https://github.com/MystenLabs/sui", branch = "devnet" }
+tokio = { version = "1.0", features = ["full"] }
+tracing = "0.1"
+tracing-subscriber = { version = "0.3", features = ["env-filter"] }
