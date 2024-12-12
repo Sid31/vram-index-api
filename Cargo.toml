@@ -5,14 +5,18 @@ edition = "2021"
 
 [dependencies]
 anyhow = "1.0"
+bcs = "0.1.5"
 chrono = { version = "0.4", features = ["serde"] }
 dotenv = "0.15"
 futures = "0.3"
+log = "0.4"
+log4rs = { version = "1.2", features = ["rolling_file_appender"] }
 serde = { version = "1.0", features = ["derive"] }
 serde_json = "1.0"
-surrealdb = { version = "1.0.0", features = ["kv-mem"] }
+surrealdb = { version = "2.1.3", features = ["kv-mem"] }
 sui-sdk = { git = "https://github.com/MystenLabs/sui", branch = "devnet" }
 move-core-types = { git = "https://github.com/MystenLabs/sui", branch = "devnet" }
 tokio = { version = "1.0", features = ["full"] }
 tracing = "0.1"
 tracing-subscriber = { version = "0.3", features = ["env-filter"] }
+tracing-appender = "0.2"

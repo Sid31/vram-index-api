@@ -1,0 +1,123 @@
+2024-12-13T03:11:18.108195020+08:00 INFO indexer_new - Initializing Indexer with package ID: 0x64efefcc5a540d229a9ce7accb02b4724af1af9507ac914f99ff484dab51fa0b
+2024-12-13T03:11:18.157477103+08:00 INFO indexer_new - Initializing Indexer with package ID: 0x64efefcc5a540d229a9ce7accb02b4724af1af9507ac914f99ff484dab51fa0b
+2024-12-13T03:14:02.136877618+08:00 INFO indexer_new - Initializing Indexer with package ID: 0x64efefcc5a540d229a9ce7accb02b4724af1af9507ac914f99ff484dab51fa0b
+2024-12-13T03:15:09.486062955+08:00 INFO indexer_new - Initializing Indexer with package ID: 0x64efefcc5a540d229a9ce7accb02b4724af1af9507ac914f99ff484dab51fa0b
+2024-12-13T03:17:08.008136932+08:00 INFO indexer_new - Initializing Indexer with package ID: 0x64efefcc5a540d229a9ce7accb02b4724af1af9507ac914f99ff484dab51fa0b
+2024-12-13T03:17:08.040136760+08:00 INFO indexer_new - Connecting to RPC URL: https://fullnode.devnet.sui.io:443
+2024-12-13T03:17:08.040189719+08:00 INFO indexer_new - Using WebSocket URL: wss://fullnode.devnet.sui.io:443
+2024-12-13T03:17:10.224735165+08:00 INFO indexer_new - Successfully connected to Sui client
+2024-12-13T03:18:33.701501397+08:00 INFO indexer_new - Initializing Indexer with package ID: 0x64efefcc5a540d229a9ce7accb02b4724af1af9507ac914f99ff484dab51fa0b
+2024-12-13T03:18:33.745078210+08:00 INFO indexer_new - Connecting with WebSocket URL: wss://fullnode.devnet.sui.io:443
+2024-12-13T03:18:36.029069233+08:00 INFO indexer_new - Successfully connected to Sui client
+2024-12-13T03:19:22.175407674+08:00 INFO indexer_new - Initializing Indexer with package ID: 0x64efefcc5a540d229a9ce7accb02b4724af1af9507ac914f99ff484dab51fa0b
+2024-12-13T03:19:22.208450500+08:00 INFO indexer_new - Connecting with WebSocket URL: wss://fullnode.devnet.sui.io:443
+2024-12-13T03:19:24.503060828+08:00 INFO indexer_new - Successfully connected to Sui client
+2024-12-13T03:21:34.887208573+08:00 INFO indexer_new - Initializing Indexer with package ID: 0x64efefcc5a540d229a9ce7accb02b4724af1af9507ac914f99ff484dab51fa0b
+2024-12-13T03:21:34.926282421+08:00 INFO indexer_new - Starting indexer with RPC URL: https://fullnode.devnet.sui.io:443
+2024-12-13T03:21:34.926331262+08:00 INFO indexer_new - Using WebSocket URL: wss://fullnode.devnet.sui.io:443
+2024-12-13T03:21:34.929869834+08:00 INFO indexer_new - Initializing Indexer with package ID: 0x64efefcc5a540d229a9ce7accb02b4724af1af9507ac914f99ff484dab51fa0b
+2024-12-13T03:21:34.964199781+08:00 INFO indexer_new - Starting indexer with RPC URL: https://fullnode.devnet.sui.io:443
+2024-12-13T03:21:34.964294868+08:00 INFO indexer_new - Using WebSocket URL: wss://fullnode.devnet.sui.io:443
+2024-12-13T03:21:37.163555938+08:00 INFO indexer_new - Successfully connected to Sui client
+2024-12-13T03:21:37.163652047+08:00 ERROR indexer_new - Failed to subscribe via WebSocket: Subscription error : Subscription only supported by WebSocket client.. Falling back to polling.
+2024-12-13T03:21:37.167508520+08:00 INFO indexer_new - Successfully connected to Sui client
+2024-12-13T03:21:37.167550288+08:00 ERROR indexer_new - Failed to subscribe via WebSocket: Subscription error : Subscription only supported by WebSocket client.. Falling back to polling.
+2024-12-13T03:21:37.389131507+08:00 ERROR indexer_new - Unknown event type: 0x64efefcc5a540d229a9ce7accb02b4724af1af9507ac914f99ff484dab51fa0b::launchpad::PoolPaused
+2024-12-13T03:21:37.389189885+08:00 ERROR indexer_new - Unknown event type: 0x64efefcc5a540d229a9ce7accb02b4724af1af9507ac914f99ff484dab51fa0b::launchpad::PoolUnpaused
+2024-12-13T03:21:37.389203100+08:00 ERROR indexer_new - Unknown event type: 0x64efefcc5a540d229a9ce7accb02b4724af1af9507ac914f99ff484dab51fa0b::launchpad::PoolPaused
+2024-12-13T03:21:37.389215523+08:00 ERROR indexer_new - Unknown event type: 0x64efefcc5a540d229a9ce7accb02b4724af1af9507ac914f99ff484dab51fa0b::launchpad::PoolUnpaused
+2024-12-13T03:21:37.389227365+08:00 ERROR indexer_new - Unknown event type: 0x64efefcc5a540d229a9ce7accb02b4724af1af9507ac914f99ff484dab51fa0b::launchpad::FeeUpdated
+2024-12-13T03:21:37.389239427+08:00 ERROR indexer_new - Unknown event type: 0x64efefcc5a540d229a9ce7accb02b4724af1af9507ac914f99ff484dab51fa0b::launchpad::PoolPaused
+2024-12-13T03:21:37.389261268+08:00 ERROR indexer_new - Unknown event type: 0x64efefcc5a540d229a9ce7accb02b4724af1af9507ac914f99ff484dab51fa0b::launchpad::PoolUnpaused
+2024-12-13T03:21:37.389272779+08:00 ERROR indexer_new - Unknown event type: 0x64efefcc5a540d229a9ce7accb02b4724af1af9507ac914f99ff484dab51fa0b::launchpad::FeeUpdated
+2024-12-13T03:21:37.389283920+08:00 ERROR indexer_new - Unknown event type: 0x64efefcc5a540d229a9ce7accb02b4724af1af9507ac914f99ff484dab51fa0b::launchpad::PoolPaused
+2024-12-13T03:21:37.389294890+08:00 ERROR indexer_new - Unknown event type: 0x64efefcc5a540d229a9ce7accb02b4724af1af9507ac914f99ff484dab51fa0b::launchpad::PoolUnpaused
+2024-12-13T03:21:37.389305961+08:00 ERROR indexer_new - Unknown event type: 0x64efefcc5a540d229a9ce7accb02b4724af1af9507ac914f99ff484dab51fa0b::launchpad::FeeUpdated
+2024-12-13T03:21:37.389316871+08:00 ERROR indexer_new - Unknown event type: 0x64efefcc5a540d229a9ce7accb02b4724af1af9507ac914f99ff484dab51fa0b::launchpad::PoolPaused
+2024-12-13T03:21:37.389327691+08:00 ERROR indexer_new - Unknown event type: 0x64efefcc5a540d229a9ce7accb02b4724af1af9507ac914f99ff484dab51fa0b::launchpad::PoolUnpaused
+2024-12-13T03:21:37.389338521+08:00 ERROR indexer_new - Unknown event type: 0x64efefcc5a540d229a9ce7accb02b4724af1af9507ac914f99ff484dab51fa0b::launchpad::FeeUpdated
+2024-12-13T03:21:37.389349331+08:00 ERROR indexer_new - Unknown event type: 0x64efefcc5a540d229a9ce7accb02b4724af1af9507ac914f99ff484dab51fa0b::launchpad::PoolPaused
+2024-12-13T03:21:37.389360192+08:00 ERROR indexer_new - Unknown event type: 0x64efefcc5a540d229a9ce7accb02b4724af1af9507ac914f99ff484dab51fa0b::launchpad::PoolUnpaused
+2024-12-13T03:21:37.389371032+08:00 ERROR indexer_new - Unknown event type: 0x64efefcc5a540d229a9ce7accb02b4724af1af9507ac914f99ff484dab51fa0b::launchpad::FeeUpdated
+2024-12-13T03:21:37.389381772+08:00 ERROR indexer_new - Unknown event type: 0x64efefcc5a540d229a9ce7accb02b4724af1af9507ac914f99ff484dab51fa0b::launchpad::PoolPaused
+2024-12-13T03:21:37.389392612+08:00 ERROR indexer_new - Unknown event type: 0x64efefcc5a540d229a9ce7accb02b4724af1af9507ac914f99ff484dab51fa0b::launchpad::PoolUnpaused
+2024-12-13T03:21:37.389403402+08:00 ERROR indexer_new - Unknown event type: 0x64efefcc5a540d229a9ce7accb02b4724af1af9507ac914f99ff484dab51fa0b::launchpad::FeeUpdated
+2024-12-13T03:21:37.389414192+08:00 ERROR indexer_new - Unknown event type: 0x64efefcc5a540d229a9ce7accb02b4724af1af9507ac914f99ff484dab51fa0b::launchpad::PoolPaused
+2024-12-13T03:21:37.389425052+08:00 ERROR indexer_new - Unknown event type: 0x64efefcc5a540d229a9ce7accb02b4724af1af9507ac914f99ff484dab51fa0b::launchpad::PoolUnpaused
+2024-12-13T03:21:37.389435902+08:00 ERROR indexer_new - Unknown event type: 0x64efefcc5a540d229a9ce7accb02b4724af1af9507ac914f99ff484dab51fa0b::launchpad::FeeUpdated
+2024-12-13T03:21:37.389446772+08:00 ERROR indexer_new - Unknown event type: 0x64efefcc5a540d229a9ce7accb02b4724af1af9507ac914f99ff484dab51fa0b::launchpad::PoolPaused
+2024-12-13T03:21:37.389457633+08:00 ERROR indexer_new - Unknown event type: 0x64efefcc5a540d229a9ce7accb02b4724af1af9507ac914f99ff484dab51fa0b::launchpad::PoolUnpaused
+2024-12-13T03:21:37.389468373+08:00 ERROR indexer_new - Unknown event type: 0x64efefcc5a540d229a9ce7accb02b4724af1af9507ac914f99ff484dab51fa0b::launchpad::FeeUpdated
+2024-12-13T03:21:37.389479193+08:00 ERROR indexer_new - Unknown event type: 0x64efefcc5a540d229a9ce7accb02b4724af1af9507ac914f99ff484dab51fa0b::launchpad::PoolPaused
+2024-12-13T03:21:37.389490013+08:00 ERROR indexer_new - Unknown event type: 0x64efefcc5a540d229a9ce7accb02b4724af1af9507ac914f99ff484dab51fa0b::launchpad::PoolUnpaused
+2024-12-13T03:21:37.389500893+08:00 ERROR indexer_new - Unknown event type: 0x64efefcc5a540d229a9ce7accb02b4724af1af9507ac914f99ff484dab51fa0b::launchpad::FeeUpdated
+2024-12-13T03:21:37.389511723+08:00 ERROR indexer_new - Unknown event type: 0x64efefcc5a540d229a9ce7accb02b4724af1af9507ac914f99ff484dab51fa0b::launchpad::FeeUpdated
+2024-12-13T03:21:37.389525008+08:00 ERROR indexer_new - Unknown event type: 0x64efefcc5a540d229a9ce7accb02b4724af1af9507ac914f99ff484dab51fa0b::launchpad::FeeUpdated
+2024-12-13T03:21:37.389535898+08:00 ERROR indexer_new - Unknown event type: 0x64efefcc5a540d229a9ce7accb02b4724af1af9507ac914f99ff484dab51fa0b::launchpad::FeeUpdated
+2024-12-13T03:21:37.389546768+08:00 ERROR indexer_new - Unknown event type: 0x64efefcc5a540d229a9ce7accb02b4724af1af9507ac914f99ff484dab51fa0b::launchpad::FeeUpdated
+2024-12-13T03:21:37.389557498+08:00 ERROR indexer_new - Unknown event type: 0x64efefcc5a540d229a9ce7accb02b4724af1af9507ac914f99ff484dab51fa0b::launchpad::FeeUpdated
+2024-12-13T03:21:37.389568248+08:00 ERROR indexer_new - Unknown event type: 0x64efefcc5a540d229a9ce7accb02b4724af1af9507ac914f99ff484dab51fa0b::launchpad::FeeUpdated
+2024-12-13T03:21:37.389582785+08:00 ERROR indexer_new - Unknown event type: 0x64efefcc5a540d229a9ce7accb02b4724af1af9507ac914f99ff484dab51fa0b::launchpad::FeeUpdated
+2024-12-13T03:21:37.389594166+08:00 ERROR indexer_new - Unknown event type: 0x64efefcc5a540d229a9ce7accb02b4724af1af9507ac914f99ff484dab51fa0b::launchpad::FeeUpdated
+2024-12-13T03:21:37.393437976+08:00 ERROR indexer_new - Unknown event type: 0x64efefcc5a540d229a9ce7accb02b4724af1af9507ac914f99ff484dab51fa0b::launchpad::PoolPaused
+2024-12-13T03:21:37.393473843+08:00 ERROR indexer_new - Unknown event type: 0x64efefcc5a540d229a9ce7accb02b4724af1af9507ac914f99ff484dab51fa0b::launchpad::PoolUnpaused
+2024-12-13T03:21:37.393486306+08:00 ERROR indexer_new - Unknown event type: 0x64efefcc5a540d229a9ce7accb02b4724af1af9507ac914f99ff484dab51fa0b::launchpad::PoolPaused
+2024-12-13T03:21:37.393497927+08:00 ERROR indexer_new - Unknown event type: 0x64efefcc5a540d229a9ce7accb02b4724af1af9507ac914f99ff484dab51fa0b::launchpad::PoolUnpaused
+2024-12-13T03:21:37.393509058+08:00 ERROR indexer_new - Unknown event type: 0x64efefcc5a540d229a9ce7accb02b4724af1af9507ac914f99ff484dab51fa0b::launchpad::FeeUpdated
+2024-12-13T03:21:37.393520098+08:00 ERROR indexer_new - Unknown event type: 0x64efefcc5a540d229a9ce7accb02b4724af1af9507ac914f99ff484dab51fa0b::launchpad::PoolPaused
+2024-12-13T03:21:37.393531079+08:00 ERROR indexer_new - Unknown event type: 0x64efefcc5a540d229a9ce7accb02b4724af1af9507ac914f99ff484dab51fa0b::launchpad::PoolUnpaused
+2024-12-13T03:21:37.393542109+08:00 ERROR indexer_new - Unknown event type: 0x64efefcc5a540d229a9ce7accb02b4724af1af9507ac914f99ff484dab51fa0b::launchpad::FeeUpdated
+2024-12-13T03:21:37.393552879+08:00 ERROR indexer_new - Unknown event type: 0x64efefcc5a540d229a9ce7accb02b4724af1af9507ac914f99ff484dab51fa0b::launchpad::PoolPaused
+2024-12-13T03:21:37.393563750+08:00 ERROR indexer_new - Unknown event type: 0x64efefcc5a540d229a9ce7accb02b4724af1af9507ac914f99ff484dab51fa0b::launchpad::PoolUnpaused
+2024-12-13T03:21:37.393574640+08:00 ERROR indexer_new - Unknown event type: 0x64efefcc5a540d229a9ce7accb02b4724af1af9507ac914f99ff484dab51fa0b::launchpad::FeeUpdated
+2024-12-13T03:21:37.393585570+08:00 ERROR indexer_new - Unknown event type: 0x64efefcc5a540d229a9ce7accb02b4724af1af9507ac914f99ff484dab51fa0b::launchpad::PoolPaused
+2024-12-13T03:21:37.393596440+08:00 ERROR indexer_new - Unknown event type: 0x64efefcc5a540d229a9ce7accb02b4724af1af9507ac914f99ff484dab51fa0b::launchpad::PoolUnpaused
+2024-12-13T03:21:37.393607210+08:00 ERROR indexer_new - Unknown event type: 0x64efefcc5a540d229a9ce7accb02b4724af1af9507ac914f99ff484dab51fa0b::launchpad::FeeUpdated
+2024-12-13T03:21:37.393617970+08:00 ERROR indexer_new - Unknown event type: 0x64efefcc5a540d229a9ce7accb02b4724af1af9507ac914f99ff484dab51fa0b::launchpad::PoolPaused
+2024-12-13T03:21:37.393628790+08:00 ERROR indexer_new - Unknown event type: 0x64efefcc5a540d229a9ce7accb02b4724af1af9507ac914f99ff484dab51fa0b::launchpad::PoolUnpaused
+2024-12-13T03:21:37.393639550+08:00 ERROR indexer_new - Unknown event type: 0x64efefcc5a540d229a9ce7accb02b4724af1af9507ac914f99ff484dab51fa0b::launchpad::FeeUpdated
+2024-12-13T03:21:37.393650401+08:00 ERROR indexer_new - Unknown event type: 0x64efefcc5a540d229a9ce7accb02b4724af1af9507ac914f99ff484dab51fa0b::launchpad::PoolPaused
+2024-12-13T03:21:37.393667172+08:00 ERROR indexer_new - Unknown event type: 0x64efefcc5a540d229a9ce7accb02b4724af1af9507ac914f99ff484dab51fa0b::launchpad::PoolUnpaused
+2024-12-13T03:21:37.393678112+08:00 ERROR indexer_new - Unknown event type: 0x64efefcc5a540d229a9ce7accb02b4724af1af9507ac914f99ff484dab51fa0b::launchpad::FeeUpdated
+2024-12-13T03:21:37.393688952+08:00 ERROR indexer_new - Unknown event type: 0x64efefcc5a540d229a9ce7accb02b4724af1af9507ac914f99ff484dab51fa0b::launchpad::PoolPaused
+2024-12-13T03:21:37.393699782+08:00 ERROR indexer_new - Unknown event type: 0x64efefcc5a540d229a9ce7accb02b4724af1af9507ac914f99ff484dab51fa0b::launchpad::PoolUnpaused
+2024-12-13T03:21:37.393710632+08:00 ERROR indexer_new - Unknown event type: 0x64efefcc5a540d229a9ce7accb02b4724af1af9507ac914f99ff484dab51fa0b::launchpad::FeeUpdated
+2024-12-13T03:21:37.393721503+08:00 ERROR indexer_new - Unknown event type: 0x64efefcc5a540d229a9ce7accb02b4724af1af9507ac914f99ff484dab51fa0b::launchpad::PoolPaused
+2024-12-13T03:21:37.393732393+08:00 ERROR indexer_new - Unknown event type: 0x64efefcc5a540d229a9ce7accb02b4724af1af9507ac914f99ff484dab51fa0b::launchpad::PoolUnpaused
+2024-12-13T03:21:37.393743073+08:00 ERROR indexer_new - Unknown event type: 0x64efefcc5a540d229a9ce7accb02b4724af1af9507ac914f99ff484dab51fa0b::launchpad::FeeUpdated
+2024-12-13T03:21:37.393754123+08:00 ERROR indexer_new - Unknown event type: 0x64efefcc5a540d229a9ce7accb02b4724af1af9507ac914f99ff484dab51fa0b::launchpad::PoolPaused
+2024-12-13T03:21:37.393764923+08:00 ERROR indexer_new - Unknown event type: 0x64efefcc5a540d229a9ce7accb02b4724af1af9507ac914f99ff484dab51fa0b::launchpad::PoolUnpaused
+2024-12-13T03:21:37.393775713+08:00 ERROR indexer_new - Unknown event type: 0x64efefcc5a540d229a9ce7accb02b4724af1af9507ac914f99ff484dab51fa0b::launchpad::FeeUpdated
+2024-12-13T03:21:37.393786553+08:00 ERROR indexer_new - Unknown event type: 0x64efefcc5a540d229a9ce7accb02b4724af1af9507ac914f99ff484dab51fa0b::launchpad::FeeUpdated
+2024-12-13T03:21:37.393797404+08:00 ERROR indexer_new - Unknown event type: 0x64efefcc5a540d229a9ce7accb02b4724af1af9507ac914f99ff484dab51fa0b::launchpad::FeeUpdated
+2024-12-13T03:21:37.393808234+08:00 ERROR indexer_new - Unknown event type: 0x64efefcc5a540d229a9ce7accb02b4724af1af9507ac914f99ff484dab51fa0b::launchpad::FeeUpdated
+2024-12-13T03:21:37.393819014+08:00 ERROR indexer_new - Unknown event type: 0x64efefcc5a540d229a9ce7accb02b4724af1af9507ac914f99ff484dab51fa0b::launchpad::FeeUpdated
+2024-12-13T03:21:37.393829754+08:00 ERROR indexer_new - Unknown event type: 0x64efefcc5a540d229a9ce7accb02b4724af1af9507ac914f99ff484dab51fa0b::launchpad::FeeUpdated
+2024-12-13T03:21:37.393840494+08:00 ERROR indexer_new - Unknown event type: 0x64efefcc5a540d229a9ce7accb02b4724af1af9507ac914f99ff484dab51fa0b::launchpad::FeeUpdated
+2024-12-13T03:21:37.393851254+08:00 ERROR indexer_new - Unknown event type: 0x64efefcc5a540d229a9ce7accb02b4724af1af9507ac914f99ff484dab51fa0b::launchpad::FeeUpdated
+2024-12-13T03:21:37.393862034+08:00 ERROR indexer_new - Unknown event type: 0x64efefcc5a540d229a9ce7accb02b4724af1af9507ac914f99ff484dab51fa0b::launchpad::FeeUpdated
+2024-12-13T03:25:00.203136649+08:00 INFO indexer_new - Initializing Indexer with package ID: 0x64efefcc5a540d229a9ce7accb02b4724af1af9507ac914f99ff484dab51fa0b
+2024-12-13T03:25:00.234820882+08:00 INFO indexer_new - Starting indexer with RPC URL: https://fullnode.devnet.sui.io:443
+2024-12-13T03:25:00.234864463+08:00 INFO indexer_new - Using WebSocket URL: wss://fullnode.devnet.sui.io:443
+2024-12-13T03:25:02.520052099+08:00 INFO indexer_new - Successfully connected to Sui client
+2024-12-13T03:25:02.520120757+08:00 ERROR indexer_new - Failed to subscribe via WebSocket: Subscription error : Subscription only supported by WebSocket client.. Falling back to polling.
+2024-12-13T03:25:02.749763220+08:00 ERROR indexer_new - Failed to handle event: unexpected end of input
+2024-12-13T03:25:02.749823272+08:00 ERROR indexer_new - Failed to handle event: unexpected end of input
+2024-12-13T03:25:02.749848448+08:00 ERROR indexer_new - Failed to handle event: unexpected end of input
+2024-12-13T03:25:02.749862535+08:00 ERROR indexer_new - Failed to handle event: unexpected end of input
+2024-12-13T03:25:02.750932462+08:00 ERROR indexer_new - Failed to handle event: unexpected end of input
+2024-12-13T03:25:02.750959211+08:00 ERROR indexer_new - Failed to handle event: unexpected end of input
+2024-12-13T03:25:02.751400291+08:00 ERROR indexer_new - Failed to handle event: unexpected end of input
+2024-12-13T03:25:02.751423955+08:00 ERROR indexer_new - Failed to handle event: unexpected end of input
+2024-12-13T03:25:02.751816213+08:00 ERROR indexer_new - Failed to handle event: unexpected end of input
+2024-12-13T03:25:02.751839697+08:00 ERROR indexer_new - Failed to handle event: unexpected end of input
+2024-12-13T03:25:02.752256030+08:00 ERROR indexer_new - Failed to handle event: unexpected end of input
+2024-12-13T03:25:02.752287489+08:00 ERROR indexer_new - Failed to handle event: unexpected end of input
+2024-12-13T03:25:02.752673746+08:00 ERROR indexer_new - Failed to handle event: unexpected end of input
+2024-12-13T03:25:02.752701728+08:00 ERROR indexer_new - Failed to handle event: unexpected end of input
+2024-12-13T03:25:02.753209722+08:00 ERROR indexer_new - Failed to handle event: unexpected end of input
+2024-12-13T03:25:02.753236431+08:00 ERROR indexer_new - Failed to handle event: unexpected end of input
+2024-12-13T03:25:02.753648777+08:00 ERROR indexer_new - Failed to handle event: unexpected end of input
+2024-12-13T03:25:02.753671039+08:00 ERROR indexer_new - Failed to handle event: unexpected end of input
+2024-12-13T03:25:02.754030316+08:00 ERROR indexer_new - Failed to handle event: unexpected end of input
+2024-12-13T03:25:02.754054751+08:00 ERROR indexer_new - Failed to handle event: unexpected end of input
